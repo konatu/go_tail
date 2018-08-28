@@ -1,0 +1,7 @@
+config:
+  -
+
+    name: api
+    log_config:
+      path: /Users/enokidoshouichirou/go/src/konatu/go_tail
+      format: ltsv
